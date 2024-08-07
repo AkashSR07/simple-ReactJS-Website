@@ -1,0 +1,80 @@
+/* Home.css */
+
+/* Home.css */
+
+
+  /* Rest of your styles... */
+  /* Home.css */
+
+.home-content {
+ 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Remove all other styles */
+  
+  
+  .home-content h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0b0101;
+  }
+  
+  .home-content p {
+    font-size: 1.2rem;
+    color: #0f0202;
+  }
+  
+  .featured-content,
+  .quick-links {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .featured-content h2,
+  .quick-links h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .contact-info {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-info h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .contact-info p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  /* Home.css */
+
+/* Override list styles for list-unstyled class */
+.list-unstyled {
+    list-style: none;
+    font-size: 1rem;
+    
+    color: #333;
+    padding-left: 0;
+  }
+  
+  /* Additional styling for list items if needed */
+  .list-unstyled li {
+    margin-bottom: 10px; /* Example margin */
+  }
+  
